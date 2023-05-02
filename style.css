@@ -1,0 +1,28 @@
+html{
+    background-color: black;
+    color: white;
+}
+#abashito{
+    border: thick double white;
+}
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+#hole{
+    text-align: center;
+    margin-top: 100px;
+}
+p{
+    text-transform: capitalize;
+}
+#love{
+    border: thick double white;
+    width: 400px;
+}
+#perv{
+    border: thick double white;
+    width: 600px;
+}
+
